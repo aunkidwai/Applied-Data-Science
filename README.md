@@ -1,27 +1,24 @@
 # Applied-Data-Science
 
-Course Description:
+**Course Description:**
+- This comprehensive 12-week course is designed to transition intermediate Python developers into proficient data scientists. By dedicating one hour daily, five days a week, participants will engage in a structured learning path that covers the fundamental to advanced aspects of data science.
+- The course begins with the basics of data science, including essential tools and Python libraries, and progresses through statistics, data manipulation, and exploratory data analysis. As participants advance, they will delve into core and intermediate machine learning techniques, data engineering essentials, and modern big data technologies.
+- Key highlights include practical applications of machine learning algorithms, an introduction to neural networks and deep learning, and explorations into natural language processing. Each week builds on the last, ensuring that foundational knowledge is solidified while new, more complex topics are introduced and explored.
+- Participants will also undertake a capstone project in the final week, applying all learned skills to a real-world data problem, culminating in a presentation of their findings.
 
-    This comprehensive 12-week course is designed to transition intermediate Python developers into proficient data scientists. By dedicating one hour daily, five days a week, participants will engage in a structured learning path that covers the fundamental to advanced aspects of data science.
-    The course begins with the basics of data science, including essential tools and Python libraries, and progresses through statistics, data manipulation, and exploratory data analysis. As participants advance, they will delve into core and intermediate machine learning techniques, data engineering essentials, and modern big data technologies.
-    Key highlights include practical applications of machine learning algorithms, an introduction to neural networks and deep learning, and explorations into natural language processing. Each week builds on the last, ensuring that foundational knowledge is solidified while new, more complex topics are introduced and explored.
-    Participants will also undertake a capstone project in the final week, applying all learned skills to a real-world data problem, culminating in a presentation of their findings.
+**Learning Outcomes:**
+- Master the use of key Python libraries like NumPy and Pandas for data science.
+- Understand and apply various statistical measures and machine learning algorithms to solve real-world problems.
+- Gain proficiency in data visualization techniques to interpret and present data effectively.
+- Learn the essentials of data engineering and handling big data technologies such as Hadoop and Spark.
+- Develop a solid grounding in deep learning and natural language processing.
+- Complete a hands-on capstone project that demonstrates your ability to tackle large-scale data science problems from start to finish.
 
-Learning Outcomes:
-
-    Master the use of key Python libraries like NumPy and Pandas for data science.
-    Understand and apply various statistical measures and machine learning algorithms to solve real-world problems.
-    Gain proficiency in data visualization techniques to interpret and present data effectively.
-    Learn the essentials of data engineering and handling big data technologies such as Hadoop and Spark.
-    Develop a solid grounding in deep learning and natural language processing.
-    Complete a hands-on capstone project that demonstrates your ability to tackle large-scale data science problems from start to finish.
-
-Course Features:
-
-    Weekly modules focusing on theory and practical application.
-    Hands-on exercises and projects to reinforce learning.
-    Comprehensive coverage from basic to advanced data science topics.
-    Access to a community and mentorship for questions and discussions.
+**Course Features:**
+- Weekly modules focusing on theory and practical application.
+- Hands-on exercises and projects to reinforce learning.
+- Comprehensive coverage from basic to advanced data science topics.
+- Access to a community and mentorship for questions and discussions.
 
 ### Week 1-3: Fundamentals of Data Science
 #### Week 1: Introduction to Data Science
