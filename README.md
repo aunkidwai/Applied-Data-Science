@@ -1,7 +1,5 @@
 # Applied-Data-Science
 
-Certainly! Here’s a more detailed breakdown of the subtopics under each main topic in the data science course plan:
-
 ### Week 1-3: Fundamentals of Data Science
 #### Week 1: Introduction to Data Science
 - **What is Data Science?**
@@ -156,5 +154,4 @@ Certainly! Here’s a more detailed breakdown of the subtopics under each main t
 - **Presentation of Results**
   - Analyzing Outcomes
   - Presenting Findings to Stakeholders
-
-This detailed course plan ensures that each topic and subtopic is structured to build upon the previous ones, providing a solid foundation and progressive learning curve for intermediate Python developers interested in data science.
+ 
