@@ -1,6 +1,6 @@
 # Applied-Data-Science
 
-Course Description:
+**Course Description:**
 This comprehensive 12-week course is designed to transition intermediate Python developers into proficient data scientists. By dedicating one hour daily, five days a week, participants will engage in a structured learning path that covers the fundamental to advanced aspects of data science.
 
 The course begins with the basics of data science, including essential tools and Python libraries, and progresses through statistics, data manipulation, and exploratory data analysis. As participants advance, they will delve into core and intermediate machine learning techniques, data engineering essentials, and modern big data technologies.
