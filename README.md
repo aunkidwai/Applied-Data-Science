@@ -20,6 +20,39 @@
 - Comprehensive coverage from basic to advanced data science topics.
 - Access to a community and mentorship for questions and discussions.
 
+### Prerequisites for the Applied Data Science Course
+
+**Programming Skills:**
+- **Python Proficiency**: Solid understanding of Python programming, including familiarity with basic syntax, control structures, functions, and classes. Participants should be comfortable writing and debugging Python scripts.
+- **Version Control**: Basic knowledge of version control systems, particularly Git, as the course materials and assignments will be distributed and managed via GitHub.
+
+**Mathematical Knowledge:**
+- **Statistics**: Basic understanding of statistics, including descriptive statistics and probability. This foundation is crucial for topics in data manipulation and inferential statistics.
+- **Algebra**: Comfort with algebraic concepts and functions, which are essential for understanding algorithms and data transformations.
+
+**Software and Tools:**
+- **Development Environment**: Familiarity with Python development environments such as Jupyter Notebook, PyCharm, or Google Colab.
+- **Libraries**: Exposure to Python libraries like NumPy and Pandas is beneficial but not mandatory, as these will be covered in detail during the course.
+
+**Analytical Skills:**
+- **Problem Solving**: Strong problem-solving skills to apply theoretical concepts to practical scenarios.
+- **Data Handling**: Basic experience with handling data, including reading from files, basic data cleaning, and simple data visualization.
+
+**Communication:**
+- **English Proficiency**: Ability to read and comprehend technical instructions in English.
+- **Documentation**: Skills in documenting code and findings, which are critical for sharing results and collaborating on projects.
+
+**Hardware Requirements:**
+- **Computer**: Access to a computer with internet connectivity capable of running the necessary software for data science tasks.
+- **Software Installation**: Permissions to install required software and libraries on the computer.
+
+**Commitment:**
+- **Time Commitment**: Willingness to dedicate approximately one hour per day, five days a week, to engage with course materials and assignments.
+
+**Desirable (but not required):**
+- **Previous Exposure to Machine Learning**: Any prior knowledge or experience in machine learning concepts or frameworks is advantageous but not required for this course.
+
+
 ### Week 1-3: Fundamentals of Data Science
 #### Week 1: Introduction to Data Science
 - **What is Data Science?**
